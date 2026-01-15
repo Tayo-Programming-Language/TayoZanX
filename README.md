@@ -26,3 +26,10 @@
 ```bash
 git clone https://github.com/<your-username>/TayoZanX.git
 cd TayoZanX
+
+## License
+
+TayoZanX v1.1 is licensed under the **GNU General Public License v3 (GPL v3)**.  
+Copyright © 2026 **Tuntisoft Foundation**.  
+
+For full license text, see [LICENSE](LICENSE).
